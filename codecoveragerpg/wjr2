@@ -1,0 +1,7 @@
+
+npm install karma-cli
+npm install karma-coverage
+npm i --save-dev install jasmine-core
+npm i --save-dev karma
+npm install --save-dev karma-jasmine
+npm install karma-chrome-launcher
